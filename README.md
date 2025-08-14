@@ -51,7 +51,8 @@
 
 
 ### 4. 动态效果演示
-![demo](https://github.com/user-attachments/assets/8803aa96-6313-4dc8-a631-f82ddc442096)
+<video src="https://github.com/user-attachments/assets/8803aa96-6313-4dc8-a631-f82ddc442096" autoplay loop muted playsinline width="800">
+</video>
 
 ## 环境配置
 
@@ -329,6 +330,7 @@ python eval_metrics.py --model_path ./work_dirs/my_experiment --iteration 50000
 ```
 
 祝您使用愉快！🚀
+
 
 
 
