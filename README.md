@@ -54,6 +54,9 @@
 <video src="https://github.com/user-attachments/assets/8803aa96-6313-4dc8-a631-f82ddc442096" autoplay loop muted playsinline width="800">
 </video>
 
+![rendering_demo](./assets/rendering_demo.gif)
+
+
 ## 环境配置
 
 ### 系统要求
@@ -330,6 +333,7 @@ python eval_metrics.py --model_path ./work_dirs/my_experiment --iteration 50000
 ```
 
 祝您使用愉快！🚀
+
 
 
 
