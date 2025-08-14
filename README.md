@@ -53,8 +53,6 @@
 ### 4. 动态效果演示
 ![rendering_demo](./assets/rendering_demo.gif)  
 
-
-
 ## 环境配置
 
 ### 系统要求
@@ -331,5 +329,6 @@ python eval_metrics.py --model_path ./work_dirs/my_experiment --iteration 50000
 ```
 
 祝您使用愉快！🚀
+
 
 
